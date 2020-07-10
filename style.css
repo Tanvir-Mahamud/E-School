@@ -1,0 +1,60 @@
+.NN{
+    background: #F0FFF0;
+    
+}
+.kk{
+    margin-bottom: 45px;
+}
+
+
+
+
+
+
+
+#signIn{
+    border-radius: 3px;
+}
+.navbar-brand img {
+    width: 150x;
+    height: 50px;
+    
+}
+
+.carousel-item{
+    padding: 70px 50px;
+
+
+}
+.col-md-2{
+    
+}
+.col-md-2 img{
+    box-sizing: border-box;
+    width: 70px;
+    height: 90px;
+}
+.card{
+    padding: 10px 20px;
+}
+
+.test {
+    padding: 50px 50px;
+    margin-left: 0px !important;
+}
+.container .h1 {
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.footer{
+    padding: 25px 50px;
+}
+#color{
+    background-color:black;
+}
+#color h3, #color li, #color p{
+    color: aliceblue;
+}
+
